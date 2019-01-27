@@ -1,0 +1,74 @@
+baseURL: //shugofa.com
+languageCode: en-us
+title: Shugofa’s Book Nook
+copyright: Copyright © 2019 Shugofa Danesh
+theme: hugo_theme_pickles
+# custom_css: /static/css/custom.css
+
+params:
+  paginate: 10
+  ## Social accounts. Link to these accounts are displayed in the header and footer
+  # twitter: Your Twitter username
+  # facebook: Your Facebook username
+  # instagram: Your Instagram username
+  # googleplus: Your Google+ account URL
+  # github: Your GitHub username
+  # gitlab: Your GitLab username
+  # npm: Your npm username
+  # codepen: Your CodePen username
+  # dribbble: Your Dribbble username
+  # fivehundredpx: Your 500px username
+  # flickr: Your Flickr username
+  # pinterest: Your Pinterest username
+  # tumblr: Your Tumblr username
+  # vimeo: Your Vimeo username
+  # youtube: Your YouTube username
+  # linkedin: Your LinkedIn username
+  ## Disqus shortname
+  # disqus: ""
+  ## Google Analytics API key.
+  # ga_api_key: Your Google Analytics tracking id
+  # author: Your Name
+  # authorwebsite: example.com
+  # avatar: /path/to/avatar
+  # contact: Your contact link (ex. "mailto:foo@example.com")
+  # bio: Your short bio
+  ## Short subtitle/tagline. This is displayed in the header.
+  # subtitle: Short subtitle
+  ## Logo image. This is displayed ogp image.
+  # logo: /path/to/logo
+  # favicon: /path/to/favicon
+
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: Tags
+      url: /tags
+      weight: 2
+    - name: RSS
+      url: /index.xml
+      weight: 3
+
+related:
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold: 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer: false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower: false
+
+  indices:
+    - name: keywords
+      weight: 150
+    - name: author
+      toLower: true
+      weight: 30
+    - name: tags
+      weight: 100
+    - name: date
+      weight: 10
+      pattern: '2017'
