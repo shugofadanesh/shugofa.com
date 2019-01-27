@@ -1,6 +1,11 @@
 baseURL: //affectionate-curran-75f601.netlify.com
 languageCode: en-us
 title: Shugofa’s Book Nook
+author: Shugofa Danesh
+copyright: Copyright © 2019 Shugofa Danesh
+paginate: 5
 theme: newsprint
-copyright: Copyright © 2019 Shugofa Danseh
 metaDataFormat: yaml
+
+# params:
+#   subtitle: Cave ab homine unius libri
