@@ -17,4 +17,5 @@ fields:
   name: thumbnail
   label: Thumbnail
 pages:
+- content/posts/hello-hello.md
 - content/posts/hello.md
