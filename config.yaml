@@ -3,6 +3,7 @@ languageCode: en-us
 title: Shugofa’s Book Nook
 copyright: Copyright © 2019 Shugofa Danesh
 theme: hugo_theme_pickles
+metaDataFormat: yaml
 # custom_css: /static/css/custom.css
 
 params:
