@@ -24,4 +24,6 @@ Purchasing books: 40$
 
 Coffee or tea outside the home : 15$
 
-A lot of these expenses could’ve been avoided and I am looking into budgeting how much I can spend on leisure after I secure a job. 
+A lot of these expenses could’ve been avoided and I am looking into budgeting how much I can spend on leisure after I secure a job.
+
+Adulting is hard but you gotta make some dough before you can make a cake. 
