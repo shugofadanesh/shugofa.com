@@ -1,11 +1,9 @@
 ---
-title: 'Introduction to this Blog '
-date: 2018-12-31 00:00:00 -0500
+title: Learning to Budget for 2019
+date: 2019-02-01 00:00:00 -0500
 thumbnail: "/uploads/2019/02/02/5AA17EEB-8AE3-47FF-8B65-8FBC0E68C288.jpeg"
 
 ---
-About Me:
-
 Graduating from English Literature last December was an accomplishment. Four gruesome, nail-biting years brought me to an hiatus of my usually working/studying self. Now, I am pursuing classes that have nothing to do with my field in order to expand my options for my future. The month of January I saw a huge amount of overspending via the following :
 
 Paying for 3 Graduate Studies Applications : \~330$
@@ -26,4 +24,4 @@ Coffee or tea outside the home : 15$
 
 A lot of these expenses could’ve been avoided and I am looking into budgeting how much I can spend on leisure after I secure a job.
 
-It’s all a part of faulting. 
+It’s all a part of budgeting. :)
