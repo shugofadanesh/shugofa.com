@@ -2,7 +2,6 @@
 title: Becoming More Involved in the Real World
 date: 2019-02-07 00:00:00 -0500
 thumbnail: "/uploads/2019/02/07/B446CCB3-FB22-4ADA-AB6E-E2C7EF2CF90C.jpeg"
-draft: true
 
 ---
 I’ve spent some months panicking and trying to get as many ideas as I can to lead me to great things. I realize I need to stop thinking so much and just do. I’ve spent a lot of time at the gym and it’s helping me gain control over my emotions. The anxiety is down, the negative thoughts too. I’m happier. 
