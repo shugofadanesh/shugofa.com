@@ -6,3 +6,7 @@ draft: true
 
 ---
 I bought this art print today from a student at Concordia University. Isn’t she gorgeous? 
+
+Sending any and all readers lots of love. 
+
+<3
