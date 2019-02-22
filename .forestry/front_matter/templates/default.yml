@@ -17,6 +17,7 @@ fields:
   name: thumbnail
   label: Thumbnail
 pages:
+- content/posts/30-days-of-yoga-challenge.md
 - content/posts/Letting Ourselves Heal with Art.md
 - content/posts/hello-hello.md
 - content/posts/becoming-more-involved-in-the-real-world.md
