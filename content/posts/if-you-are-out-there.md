@@ -5,7 +5,7 @@ thumbnail: ''
 draft: true
 
 ---
-Tears stain my pillow 
+Tears stain my pillow
 
 salt water ocean
 
@@ -13,8 +13,8 @@ i wish we had dropped everything and ran like we did that day up that dune of sa
 
 under the beating sun,
 
-My legs like toothpicks trudging along 
+My legs like toothpicks trudging along
 
-One hand holding my sun hat in place 
+One hand holding my sun hat in place
 
 Following the song of your beating heart 
