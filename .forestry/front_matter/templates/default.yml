@@ -1,7 +1,6 @@
 ---
 label: Default
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -17,6 +16,7 @@ fields:
   name: thumbnail
   label: Thumbnail
 pages:
+- content/posts/if-you-are-out-there.md
 - content/posts/dealing-with-emotional-pain.md
 - content/posts/30-days-of-yoga-challenge.md
 - content/posts/Letting Ourselves Heal with Art.md
