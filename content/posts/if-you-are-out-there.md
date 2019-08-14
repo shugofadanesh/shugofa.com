@@ -1,19 +1,21 @@
 ---
 title: 'If you are out there '
-date: 2019-03-26 00:00:00 -0400
+date: 2019-03-26T00:00:00-04:00
 thumbnail: ''
 
 ---
-Tears stain my pillow
+Tears soak my pillow
 
 salt water ocean
 
-i wish we had dropped everything and ran like we did that day up that dune of sand
+I wish we had dropped everything and ran like we did that day up that dune of sand - carefree
 
 under the beating sun,
 
 My legs like toothpicks trudging along
 
-One hand holding my sun hat in place
+One hand holding my hat in place
 
-Following the song of your beating heart 
+The most important thing was being in that magical moment 
+
+Of breath and life 
