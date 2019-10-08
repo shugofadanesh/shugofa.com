@@ -16,6 +16,7 @@ fields:
   name: thumbnail
   label: Thumbnail
 pages:
+- content/posts/hello-from-hell.md
 - content/posts/Letting Ourselves Heal with Art.md
 - content/posts/if-you-are-out-there.md
 - content/posts/things-i-m-great-at-and-am-grateful-for.md
