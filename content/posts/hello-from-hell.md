@@ -2,7 +2,6 @@
 title: Hello from Hell.
 date: 2019-10-08T00:00:00-04:00
 thumbnail: ''
-draft: true
 
 ---
 I'm sorry world, that I got too close to the edge. 
