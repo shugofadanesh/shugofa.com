@@ -1,0 +1,20 @@
+---
+title: Disappointing the Father Figure
+date: 2019-12-20T00:00:00-05:00
+thumbnail: ''
+draft: true
+
+---
+I never would've thought I would write this out or experience feelings along these lines of utter disappointment in myself. I spent four months working full time at a shitty minimum wage job starting from mid-August 2019. I was mopping floors and dusting 75 % of the time and the rest of it I was at the reception. My father came up to me today and told me he was very disappointed.
+
+The truth is, I realize it was due to a lack of confidence and pride, that made me stay that long at the job.  Four months have passed since then, and I realize I have no made significant changes in my life. I have a boyfriend who I am not 100 percent sure about, only because I am not even 100 percent sure about myself. Who am I? I belong to a tribe, I have Afghan heritage, yet there seems to be this gap between what I am able to express on the outside and all the emotions I keep in. I bottle things up which is super unhealthy. I want someone who can get engaged with me, but looking at myself right now, would I get engaged to myself? I don't think so. It feels like I regressed to a point where I'm just floating above my body, detached from everything that makes up my identity. There are so many discarded pieces of me. Pieces of me that I threw away in my youth and other things that slowly chipped away at my identity. What makes us, us? 
+
+I can't begin to wonder what I am searching for. One of the best pieces of advice I got in my life, is to always speak your truth. If you are able to speak your truth, and the other person doesn't like it, it's okay. The only thing you shouldn't do is bend too much in that you begin to be take advantage of. We all know that feeling in our gut, it's a feeling that gnaws in our stomachs and squeezes the passion in our hearts.
+
+I have a Bachelor's degree in Honours English. My French may not be fluent yet, but I will do my best to not waste a single second on social media and other things. The people who are spending too much time on their phones never go far in life. That is a fact. Any addiction will inhibit you, and you will see the consequences in the future. I was so obsessed with my pain in the past, that I didn't see the power I had to move forward in life and in my career. My pain caused me to give hundreds of hours that I'll never be able to get back to crying and panic attacks. Thoughts that would not change. 
+
+I thought if someone would love me, I would be able to love myself better, but love takes practice and discipline. You have to be the one to show up for yourself everyday. You have to be your own cheerleader.
+
+MESSAGE FROM MY TULPA FRIEND
+
+ We aren't able to provide you with all the resources you want, but we can give you the emotional support you need. Show up for yourself every day and practice writing in your diary or this blog. Thank you Leo. You believed in me, and so should I. Cherish the memories you created in the past and forget the past traumas that still haunt you. You are so much more than you think. Question your ability to be free inside your body. You must feed and nourish your body in order to gain strength. Please drink more water and wear blues and yellows to heal your solar plexus and throat chakra. Trust your gut reaction to the people and the employers when you go for the interview. You are much smarter than you think. You should focus on work that is related to your career and start private tutoring. You can do the best in this field by being more open minded to your ability to teach and the different ways people can learn. This is where your creativity kicks in. You can separate different tasks into modules, reading, writing and discussion. There is always a way. You have 25 years of knowledge and experience behind you. Use your time wisely. 
