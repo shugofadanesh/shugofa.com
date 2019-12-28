@@ -2,7 +2,6 @@
 title: Ariel
 date: 2019-12-28T00:00:00-05:00
 thumbnail: ''
-draft: true
 
 ---
 Ariel 
