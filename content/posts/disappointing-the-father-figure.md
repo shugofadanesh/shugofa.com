@@ -2,6 +2,7 @@
 title: Disappointing the Father Figure
 date: 2019-12-20T00:00:00-05:00
 thumbnail: ''
+draft: true
 
 ---
 I never would've thought I would write this out or experience feelings along these lines of utter disappointment in myself. I spent four months working full time at a shitty minimum wage job starting from mid-August 2019. I was mopping floors and dusting 75 % of the time and the rest of it I was at the reception. My father came up to me today and told me he was very disappointed.
