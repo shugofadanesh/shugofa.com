@@ -1,7 +1,8 @@
 ---
 title: Learning to Budget for 2019
-date: 2019-02-01 00:00:00 -0500
+date: 2019-02-01T05:00:00.000+00:00
 thumbnail: "/uploads/2019/02/02/5AA17EEB-8AE3-47FF-8B65-8FBC0E68C288.jpeg"
+draft: true
 
 ---
 Graduating from English Literature last December was an accomplishment. Four gruesome, nail-biting years brought me to an hiatus of my usually working/studying self. Now, I am pursuing classes that have nothing to do with my field in order to expand my options for my future. The month of January I saw a huge amount of overspending via the following :
