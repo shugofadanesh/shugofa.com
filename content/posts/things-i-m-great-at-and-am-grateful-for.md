@@ -1,7 +1,8 @@
 ---
 title: 'Things I''m Great at and Am Grateful For '
-date: 2019-08-14T00:00:00-04:00
+date: 2019-08-14T04:00:00.000+00:00
 thumbnail: ''
+draft: true
 
 ---
 My ex-boyfriend Leo made me this blog, and I think he really got to know me in the short time we were together. He was a super positive spark in my life. Everything shone when we were in Freiburg.
@@ -26,4 +27,4 @@ If not for others, then for myself.
 
 Signing off,
 
-Shug 
+Shug
